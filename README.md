@@ -1,2 +1,2 @@
-# Fun_Little_Projects
+# Fun Little Projects
 Fun little projects
